@@ -2,7 +2,8 @@
 The project involves conducting a descriptive analysis of a dataset that contains information about shows and movies.
 
 
-****Questions analyzed using the provided dataset:
+**Questions analyzed using the provided dataset:**
+
 Which is the distribution of movies and shows in the countries?
 What director has the highest number of shows?
 What is the distribution of content ratings?
